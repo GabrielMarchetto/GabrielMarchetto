@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Marchetto 👋
 
-Sou estudante de ti apaixonado por tecnologia e inovação.
+Sou estudante apaixonado por tecnologia e inovação.
 
 - 📚 Estudando: Sistemas de informação - 4˚ semestre
 - 🎯 Buscando oportunidades como **Estagiario em ti**
